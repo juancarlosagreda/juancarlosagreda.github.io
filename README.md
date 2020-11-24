@@ -4,7 +4,7 @@
 
     - Help Hunters  
     - Classification Notebook
-    - Visual Comunication
+    - Visual Communication
 
 ## Data Science / Statistics / ML
 
